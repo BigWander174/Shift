@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shift", "Shift.csproj", "{BD4C7398-0440-4D61-A003-06C98EDE0980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4C7398-0440-4D61-A003-06C98EDE0980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4C7398-0440-4D61-A003-06C98EDE0980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4C7398-0440-4D61-A003-06C98EDE0980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4C7398-0440-4D61-A003-06C98EDE0980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {053D7DF8-A3D8-4317-962B-EC4A4E3C008E}
+	EndGlobalSection
+EndGlobal
